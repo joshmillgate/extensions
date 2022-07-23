@@ -10,7 +10,7 @@
 
 # Documentation:
 # @raycast.description This extension will toggle the use of function keys 
-# @raycast.author Josh Millgate
+# @raycast.author joshmillgate
 # @raycast.authorURL https://twitter.com/joshmillgate
 
 tell application "System Preferences"
