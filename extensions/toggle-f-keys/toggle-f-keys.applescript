@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Toggle F keys
+# @raycast.title Toggle F Keys
 # @raycast.mode silent
 
 # Optional parameters:
