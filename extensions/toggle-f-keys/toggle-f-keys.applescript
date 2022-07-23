@@ -9,7 +9,7 @@
 # @raycast.icon icon.png
 
 # Documentation:
-# @raycast.description This extension will toggle the use of function keys 
+# @raycast.description Toggle the use of function keys so that you can use F1, F2 without holding fn key
 # @raycast.author joshmillgate
 # @raycast.authorURL https://twitter.com/joshmillgate
 
